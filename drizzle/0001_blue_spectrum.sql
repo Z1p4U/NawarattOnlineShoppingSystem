@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `township` text DEFAULT '' NOT NULL;

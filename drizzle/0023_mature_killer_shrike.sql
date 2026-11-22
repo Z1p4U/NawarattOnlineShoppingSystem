@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `package_instruction` text DEFAULT '' NOT NULL;

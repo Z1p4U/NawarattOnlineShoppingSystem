@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Nawaratt logo</title>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="52" x2="440" y2="468" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#245C9E"/>
+      <stop offset="1" stop-color="#071A35"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="392" cy="112" r="96" fill="#6FA9E6" opacity=".28"/>
+  <path d="M126 363V149c0-21 17-38 38-38h12l160 226V149c0-21 17-38 38-38h12v252c0 21-17 38-38 38h-12L176 175v188c0 21-17 38-38 38h-12z" fill="#fff"/>
+  <circle cx="376" cy="354" r="74" fill="#2F75BA"/>
+  <path d="M376 315v78M337 354h78" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+</svg>

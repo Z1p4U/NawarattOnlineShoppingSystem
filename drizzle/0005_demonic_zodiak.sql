@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `warehouse_batches` text DEFAULT '[]' NOT NULL;
